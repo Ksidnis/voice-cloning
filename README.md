@@ -1,0 +1,3 @@
+# FLAVIO, TE ROG -- NU UITA SA BAGI IN .gitignore CREDENTIALS SI SA SCHIMBI LINIILE IMPORTANTE PENTRU AUTENTIFICARE IN CODE, ca sa poti liber posta pe github!!!1!!
+
+test commit 
